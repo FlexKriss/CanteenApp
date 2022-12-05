@@ -1,0 +1,10 @@
+Contents of project:
+Database:
+    items
+    cart
+
+Functions:
+	Show menu
+    add item to cart
+    remove item from cart
+    show cart
